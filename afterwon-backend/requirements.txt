@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+plotly
+openai
+websockets
+python-dotenv
+openpyxl
+xlrd
+scikit-learn
+numpy
+matplotlib
+httpx
+ipython
