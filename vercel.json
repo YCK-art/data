@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "cd afterwon-frontend && npm run build",
+  "devCommand": "cd afterwon-frontend && npm run dev",
+  "installCommand": "cd afterwon-frontend && npm install",
+  "outputDirectory": "afterwon-frontend/.next"
+}
